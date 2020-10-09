@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/algirdaskuslys/CoronaZP20T.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/vaidasuope/JAVA_CoronaProject.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\moksleivis\AndroidStudioProjects" />
